@@ -1,0 +1,17 @@
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/regex-irp
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/regex-irp.deps.json
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/regex-irp.runtimeconfig.json
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/regex-irp.dll
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/ref/regex-irp.dll
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/regex-irp.pdb
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.csproj.AssemblyReference.cache
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.AssemblyInfoInputs.cache
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.AssemblyInfo.cs
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.csproj.CoreCompileInputs.cache
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.csproj.CopyComplete
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.dll
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/ref/regex-irp.dll
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.pdb
+/Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.genruntimeconfig.cache
