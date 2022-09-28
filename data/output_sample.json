@@ -1,0 +1,1 @@
+[{"exception":false,"regex":"\\G(.*?)\\.?$quote\\s*","matchingInputPairs":[],"nonMatchingInputPairs":[],"outputExceptionStackTrace":null,"inputExceptionStackTrace":{"exceptionThrownBy":"Python","exception":"bad escape \\G"}}]

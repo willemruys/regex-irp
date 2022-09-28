@@ -1,0 +1,10 @@
+[
+  {
+    "regex": "\\G(.*?)\\.?$quote\\s*",
+    "exceptionStackTrace": {
+      "exceptionThrownBy": "Python",
+      "exception": "bad escape \\G"
+    },
+    "matches": []
+  }
+]

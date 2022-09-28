@@ -1,0 +1,31 @@
+[
+  {
+    "exception": true,
+    "regex": "[^-a-z0-9\\.\\(\\),_`\\*\\'\"]+",
+    "matchingInputPairs": null,
+    "nonMatchingInputPairs": null,
+    "outputExceptionStackTrace": {
+      "message": "Object reference not set to an instance of an object.",
+      "regex": "[^-a-z0-9\\.\\(\\),_`\\*\\'\"]+",
+      "source": "regex-irp"
+    },
+    "inputExceptionStackTrace": null
+  },
+  {
+    "exception": false,
+    "regex": "(\\d+) % failed,\\s*(\\d+) % warnings",
+    "matchingInputPairs": [
+      { "input": "0 % failed, 00 % warnings", "match": true },
+      { "input": "0 % failed,  0 % warnings", "match": true },
+      { "input": "00 % failed, 0 % warnings", "match": true },
+      { "input": "0 % failed,0 % warnings", "match": true },
+      { "input": "0 % failed, 0 % warnings", "match": true }
+    ],
+    "nonMatchingInputPairs": [
+      { "input": "0 % failed,  % warnings", "match": false },
+      { "input": " % failed, 0 % warnings", "match": false }
+    ],
+    "outputExceptionStackTrace": null,
+    "inputExceptionStackTrace": null
+  }
+]

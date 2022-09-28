@@ -15,3 +15,4 @@
 /Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/ref/regex-irp.dll
 /Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.pdb
 /Users/willem@founda.com/msc/regex-irp/obj/Debug/net6.0/regex-irp.genruntimeconfig.cache
+/Users/willem@founda.com/msc/regex-irp/bin/Debug/net6.0/ShellProgressBar.dll
